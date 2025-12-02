@@ -61,13 +61,13 @@ This comprehensive sheet contains 99 of the most important Data Structures and A
 | Longest Substring Without Repeating | [GfG Link](https://www.geeksforgeeks.org/dsa/length-of-the-longest-substring-without-repeating-characters/) | [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters |
 | Longest Repeating Character Replacement | [GfG Link](https://www.geeksforgeeks.org/dsa/maximum-consecutive-repeating-character-string/) | [LC 424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement |
 | Smallest window containing all characters | [GfG Link](https://www.geeksforgeeks.org/dsa/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) | Minimum Window Substring |
-| Check for Anagram | [GfG Link](https://www.geeksforgeeks.org/dsa/check-whether-two-strings-are-anagram-of-each-other/) | [LC 242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram |
-| Print all anagrams together | [GfG Link](https://www.geeksforgeeks.org/dsa/given-a-sequence-of-words-print-all-anagrams-together/) | [LC 49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams |
 | Check Balanced Parentheses | [GfG Link](https://www.geeksforgeeks.org/dsa/check-for-balanced-parentheses-in-an-expression/) | [LC 20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses |
 | Sentence Palindrome | [GfG Link](https://www.geeksforgeeks.org/dsa/sentence-palindrome-palindrome-removing-spaces-dots-etc/) | [LC 125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome |
 | Longest Palindromic Substring | [GfG Link](https://www.geeksforgeeks.org/dsa/longest-palindromic-substring/) | [LC 5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring |
 | Palindromic Substrings | [GfG Link](https://www.geeksforgeeks.org/dsa/count-palindrome-sub-strings-string/) | [LC 647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings |
 | Longest Common Prefix | [GfG Link](https://www.geeksforgeeks.org/dsa/longest-common-prefix-using-sorting/) | [LC 14](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix |
+| Check for Anagram | [GfG Link](https://www.geeksforgeeks.org/dsa/check-whether-two-strings-are-anagram-of-each-other/) | [LC 242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram |
+| Print all anagrams together | [GfG Link](https://www.geeksforgeeks.org/dsa/given-a-sequence-of-words-print-all-anagrams-together/) | [LC 49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams |
 
 **Total String Problems: 10**
 
