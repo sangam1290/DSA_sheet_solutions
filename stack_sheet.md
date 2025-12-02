@@ -4,6 +4,7 @@
 We traverse from one side and maintain a stack to find the first greater/smaller element on the other side in O(N).
 
 # Code
+``` python 
 def stack_problem(arr, reverse, compare):
     n = len(arr)
     stack = []       # holds candidates to compare
@@ -48,7 +49,7 @@ def NSR(arr):
 # Next Smaller to Left
 def NSL(arr):
     return stack_problem(arr, reverse=False, compare=lambda s, a: s >= a)
-
+```
 
 | Problem | Direction | Condition      | Common Use              |
 | ------- | --------- | -------------- | ----------------------- |
