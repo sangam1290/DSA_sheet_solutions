@@ -3,6 +3,7 @@
 
 We traverse from one side and maintain a stack to find the first greater/smaller element on the other side in O(N).
 
+# Code
 def stack_problem(arr, reverse, compare):
     n = len(arr)
     stack = []       # holds candidates to compare
@@ -32,10 +33,22 @@ def stack_problem(arr, reverse, compare):
 
 arr = [4, 5, 2, 10, 8]
 
-print("NGR:", NGR(arr))
-print("NGL:", NGL(arr))
-print("NSR:", NSR(arr))
-print("NSL:", NSL(arr))
+# Next Greater to Right
+def NGR(arr):
+    return stack_problem(arr, reverse=True, compare=lambda s, a: s <= a)
+
+# Next Greater to Left
+def NGL(arr):
+    return stack_problem(arr, reverse=False, compare=lambda s, a: s <= a)
+
+# Next Smaller to Right
+def NSR(arr):
+    return stack_problem(arr, reverse=True, compare=lambda s, a: s >= a)
+
+# Next Smaller to Left
+def NSL(arr):
+    return stack_problem(arr, reverse=False, compare=lambda s, a: s >= a)
+
 
 | Problem | Direction | Condition      | Common Use              |
 | ------- | --------- | -------------- | ----------------------- |
