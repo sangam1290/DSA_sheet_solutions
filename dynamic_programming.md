@@ -1,13 +1,13 @@
 # 0-1 Knapsack Problem
+| # | Problem | GfG | LeetCode / Discuss |
+|---|---|---|---|
+| 1 | Subset Sum | [Subset Sum – GfG](https://www.geeksforgeeks.org/dsa/subset-sum-problem-dp-25/) | [Subset Sum – LC Discuss](https://leetcode.com/discuss/interview-question/2034613/count-subset-sum-with-a-given-sum-dp-solution/) |
+| 2 | Equal Sum Partition | [Equal Sum Partition – GfG](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) | [Partition Equal Subset Sum – LC](https://leetcode.com/problems/partition-equal-subset-sum/) |
+| 3 | Count of Subset Sum | [Count Subset Sum – GfG](https://www.geeksforgeeks.org/dsa/count-of-subsets-with-sum-equal-to-x/) | [Count Subset Sum – LC Discuss](https://leetcode.com/discuss/interview-question/2034613/count-subset-sum-with-a-given-sum-dp-solution/) |
+| 4 | Minimum Subset Sum Difference | [Min Subset Sum Diff – GfG](https://www.geeksforgeeks.org/dsa/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/) | [Min Subset Sum Diff – LC Discuss](https://leetcode.com/discuss/interview-question/2034794/Minimum-Subset-Sum-Difference-oror-Explained/) |
+| 5 | Target Sum | — | [Target Sum – LC](https://leetcode.com/problems/target-sum/) |
+| 6 | No. of Subsets With Given Difference | [Given Difference – GfG](https://www.geeksforgeeks.org/dsa/count-of-subsets-with-given-difference/) | [Given Difference – LC Discuss](https://leetcode.com/discuss/interview-question/1271034/count-no-of-subsets-with-given-difference-dp/) |
 
-| # | Problem | Link |
-|---|---|---|
-| 1 | Subset Sum | https://leetcode.com/discuss/interview-question/2034613/count-subset-sum-with-a-given-sum-dp-solution/
-| 2 | Equal Sum Partition | https://leetcode.com/problems/partition-equal-subset-sum/
-| 3 | Count of Subset Sum | https://leetcode.com/discuss/interview-question/2034613/count-subset-sum-with-a-given-sum-dp-solution/
-| 4 | Minimum Subset Sum Difference | https://leetcode.com/discuss/interview-question/2034794/Minimum-Subset-Sum-Difference-oror-Explained/
-| 5 | Target Sum | https://leetcode.com/problems/target-sum/
-| 6 | Number of Subsets With Given Difference | https://leetcode.com/discuss/interview-question/1271034/count-no-of-subsets-with-given-difference-dp/
 
 
 # Unbounded Knapsack
