@@ -1,22 +1,14 @@
 # 0-1 Knapsack Problem
 
-1.Subset Sum
-Determine if a subset with a given sum exists.
+| # | Problem | Link |
+|---|---|---|
+| 1 | Subset Sum | https://leetcode.com/discuss/interview-question/2034613/count-subset-sum-with-a-given-sum-dp-solution/
+| 2 | Equal Sum Partition | https://leetcode.com/problems/partition-equal-subset-sum/
+| 3 | Count of Subset Sum | https://leetcode.com/discuss/interview-question/2034613/count-subset-sum-with-a-given-sum-dp-solution/
+| 4 | Minimum Subset Sum Difference | https://leetcode.com/discuss/interview-question/2034794/Minimum-Subset-Sum-Difference-oror-Explained/
+| 5 | Target Sum | https://leetcode.com/problems/target-sum/
+| 6 | Number of Subsets With Given Difference | https://leetcode.com/discuss/interview-question/1271034/count-no-of-subsets-with-given-difference-dp/
 
-2.Equal Sum Partition
-Check if the array can be partitioned into two subsets of equal sum.
-
-3.Count of Subset Sum
-Count how many subsets form a given sum.
-
-4.Minimum Subset Sum Difference
-Split into two subsets such that the difference of sums is minimum.
-
-5.Target Sum
-Count the ways to assign + or – signs to reach a target.
-
-6.Number of Subsets With Given Difference
-Number of subsets where difference between two subset sums equals a given value.
 
 # Unbounded Knapsack
 
