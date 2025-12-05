@@ -11,13 +11,13 @@
 
 
 # Unbounded Knapsack
+| Problem             | GfG Link | LeetCode Link |
+|--------------------|---------|---------------|
+| Rod Cutting        | https://www.geeksforgeeks.org/dsa/cutting-a-rod-dp-13/ | — |
+| Coin Change — I    | https://www.geeksforgeeks.org/dsa/coin-change-dp-7/ | https://leetcode.com/problems/coin-change/ |
+| Coin Change — II   | — | https://leetcode.com/problems/coin-change-ii/ |
+| Maximum Ribbon Cut | (similar to Rod Cutting on GfG) | — |
 
-## Related Problems
-
-1. Rod Cutting  
-2. Coin Change — I  
-3. Coin Change — II  
-4. Maximum Ribbon Cut
 
 # Longest Common Subsequence (LCS)
 
